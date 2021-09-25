@@ -206,13 +206,3 @@ app/mapping.txt
 app/seeds.txt
 
 app/unused.txt
-
-fastlane/metadata/*
-
-fastlane/report.xml
-
-fastlane/clickbus.keystore
-clickbus.keystore.64
-
-fastlane/google-play-auth.json
-google-play-auth.json.64
