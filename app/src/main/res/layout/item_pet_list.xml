@@ -43,7 +43,7 @@
             android:layout_height="wrap_content"
             android:layout_marginHorizontal="16dp"
             android:fontFamily="sans-serif-condensed"
-            android:textColor="@color/purple_700"
+            android:textColor="@color/amber_700"
             app:layout_constraintStart_toEndOf="@+id/imagePetPicture"
             app:layout_constraintTop_toBottomOf="@+id/textPetName"
             tools:text="Husky Siberiano" />

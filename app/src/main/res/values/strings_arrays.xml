@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="breed_array">
+        <item>Select Breed</item>
+        <item>Akita</item>
+        <item>Basset hound</item>
+        <item>Beagle</item>
+        <item>Bichon frisé</item>
+        <item>Boiadeiro australiano</item>
+        <item>Border collie</item>
+        <item>Boston terrier	</item>
+        <item>Boxer</item>
+        <item>Buldogue francês	</item>
+        <item>Buldogue inglês	</item>
+        <item>Bull terrier</item>
+        <item>Cane corso</item>
+        <item>Cavalier king charles spaniel</item>
+        <item>Chihuahua</item>
+        <item>Chow chow</item>
+        <item>Cocker spaniel inglês</item>
+        <item>Dachshund</item>
+        <item>Dálmata</item>
+        <item>Doberman</item>
+        <item>Dogo argentino</item>
+        <item>Dogue alemão</item>
+        <item>Fila brasileiro</item>
+        <item>Golden retriever</item>
+        <item>Husky siberiano</item>
+        <item>Jack russell terrier</item>
+        <item>Labrador retriever</item>
+        <item>Lhasa apso</item>
+        <item>Lulu da pomerânia</item>
+        <item>Maltês</item>
+        <item>Mastiff inglês</item>
+        <item>Mastim tibetano</item>
+        <item>Pastor alemão</item>
+        <item>Pastor australiano</item>
+        <item>Pastor de Shetland</item>
+        <item>Pequinês</item>
+        <item>Pinscher</item>
+        <item>Pit bull</item>
+        <item>Poodle</item>
+        <item>Pug</item>
+        <item>Rottweiler</item>
+        <item>Schnauzer</item>
+        <item>Shar-pei</item>
+        <item>Shiba</item>
+        <item>Shih tzu</item>
+        <item>Staffordshire bull terrier</item>
+        <item>Weimaraner</item>
+        <item>Yorkshire</item>
+    </string-array>
+    
+    <string-array name="short_answers_array">
+        <item>Select</item>
+        <item>Yes</item>
+        <item>No</item>
+    </string-array>
+
+    <string-array name="gender_array">
+        <item>Female</item>
+        <item>Male</item>
+    </string-array>
+
+    <string-array name="years_old_array">
+        <item>01</item>
+        <item>02</item>
+        <item>03</item>
+        <item>04</item>
+        <item>05</item>
+        <item>06</item>
+        <item>07</item>
+        <item>08</item>
+        <item>09</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+    </string-array>
+</resources>

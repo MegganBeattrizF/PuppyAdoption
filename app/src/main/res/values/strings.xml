@@ -1,4 +1,25 @@
 <resources>
     <string name="app_name">PuppyAdoption</string>
     <string name="contentDescriptionImagePetPicture">Image of a pet</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="textAddPetButton">Add A Pet</string>
+    <string name="titleAddPetName">Pet Name</string>
+    <string name="titleSelectPetBreed">Pet Breed</string>
+    <string name="hintEditTextPetNameValue">Type your pet name</string>
+    <string name="hintPetObservation">Type some observation</string>
+    <string name="textPetObservationsTitle">Observations</string>
+    <string name="textPetAgeTitle">Pet Age</string>
+    <string name="hintPetAgeValue">Type your pet age</string>
+    <string name="textPetCastratedTitle">Pet Castrated</string>
+    <string name="textSizePetTitle">Pet Size</string>
+    <string name="radioButtonSmall">Small</string>
+    <string name="radioButtonMedium">Medium</string>
+    <string name="radioButtonBig">Big</string>
+    <string name="radioButtonBigger">Bigger</string>
+    <string name="textPetGenderTitle">Pet Gender</string>
+    <string name="itemMenuHome">Home</string>
+    <string name="itemMenuSearch">Block</string>
+    <string name="itemMenuOrders">Block</string>
+    <string name="addPetFormFragmentName">New Pet Registration</string>
 </resources>
